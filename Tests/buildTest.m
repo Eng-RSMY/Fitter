@@ -1,0 +1,1 @@
+mcc -o MATKIT_Fitter -W WinMain:MATKIT_Fitter -T link:exe -d C:\Users\ahmet\GitHub\Fitter\Fitter\for_testing -v C:\Users\ahmet\GitHub\Fitter\Fitter.mlapp -r 'C:\Program Files\MATLAB\R2017b\toolbox\compiler\Resources\default_icon.ico' 
